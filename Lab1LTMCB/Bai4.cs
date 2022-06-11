@@ -52,6 +52,7 @@ namespace BaiLab1
             textBox2.Text = String.Format("{0:#,##0.##}", a);   //Dinh dang dau ra co dau phay
         }
 
+        //Click to label to see information
         private void label6_Click(object sender, EventArgs e)   //Tao nut xem ty gia hoi doai
         {
             string x = comboBox1.Text.ToString();

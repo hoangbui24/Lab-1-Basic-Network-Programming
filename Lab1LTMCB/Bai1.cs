@@ -58,7 +58,7 @@ namespace BaiLab1
                 }
             }
         }
-
+        //Close form
         private void button2_Click(object sender, EventArgs e)
         {
             Close();

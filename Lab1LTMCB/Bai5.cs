@@ -20,8 +20,8 @@ namespace BaiLab1
         private void button1_Click(object sender, EventArgs e)
         {
             decimal a, b;
-            bool AisInt = decimal.TryParse(textBox1.Text, out a);
-            bool BisInt = decimal.TryParse(textBox2.Text, out b);
+            bool AisInt = decimal.TryParse(textBox1.Text, out a); //Test whether a is decimal or not
+            bool BisInt = decimal.TryParse(textBox2.Text, out b);   //Test whether b is decimal or not
 
             if (!AisInt && !BisInt)                                 //Neu ca hai so khong phai la Int
             {
