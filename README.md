@@ -14,7 +14,11 @@ This is just a basic lab which requires some logics and coding syntax with which
 ## Task 2: Max and Min:
 ❓ Colab with Winform, write a program which finds maximum and minimum numbers in three number imputs. So, the condition is the inputs must be number format. <br>
 <br>
-> Hint: Use If - else
+> Hint: Use If - else. <br>
+
+**Consult interface:**<br>
+![image](https://user-images.githubusercontent.com/71567852/173200370-31b47370-ad99-40ad-a8c1-e465ace16317.png)
+
 
 
 
