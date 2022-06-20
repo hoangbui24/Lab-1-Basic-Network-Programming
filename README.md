@@ -19,6 +19,14 @@ This is just a basic lab which requires some logics and coding syntax with which
 **Consult interface:**<br>
 ![image](https://user-images.githubusercontent.com/71567852/173200370-31b47370-ad99-40ad-a8c1-e465ace16317.png)
 
+## Task 3: Read number:
+❓ Write a program colab with winform which reads number from 1 to 9 and displays the text of its number
+> Hint: Use Switch-case. <br>
+
+**Consult interface:**<br>
+![ảnh](https://user-images.githubusercontent.com/71567852/174531927-c42cd1f1-08ef-4586-a1cc-5470d6c7bf9f.png)
+
+
 
 
 
