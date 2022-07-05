@@ -26,6 +26,19 @@ This is just a basic lab which requires some logics and coding syntax with which
 **Consult interface:**<br>
 ![ảnh](https://user-images.githubusercontent.com/71567852/174531927-c42cd1f1-08ef-4586-a1cc-5470d6c7bf9f.png)
 
+## Task 4: money conversion:
+❓Write a simple program to exchange money from 5 common currencies (USD, EUR, GBP, SGD, JPY)
+into Vietnam Dong with the following conversion rate: <br>
+1 USD = 22,772 VND<br>
+1 EUR = 28,132 VND<br>
+1 GBP = 31,538 VND<br>
+1 SGD = 17,286 VND<br>
+1 JPY = 214 VND<br>
+
+** Consult interface:**<br>
+![image](https://user-images.githubusercontent.com/71567852/177259334-6f9fc295-8aa6-418a-97a1-f7fc6af39c74.png)
+
+
 
 
 
